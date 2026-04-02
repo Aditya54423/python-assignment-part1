@@ -1,0 +1,116 @@
+================================
+     Task 1 : PROFILE CARDS
+================================
+
+ --------------------------------------
+Student: Ayesha Sharma  [✓ Valid name]
+Roll No : 101
+Marks: [88, 72, 95, 60, 78]
+------------------------------------------
+
+ --------------------------------------
+Student: Rohit Verma  [✓ Valid name]
+Roll No : 102
+Marks: [55, 68, 49, 72, 61]
+------------------------------------------
+
+ --------------------------------------
+Student: Priya Nair  [✓ Valid name]
+Roll No : 103
+Marks: [91, 85, 88, 94, 79]
+------------------------------------------
+
+ --------------------------------------
+Student: Karan Mehta  [✓ Valid name]
+Roll No : 104
+Marks: [40, 55, 38, 62, 50]
+------------------------------------------
+
+ --------------------------------------
+Student: Sneha Pillai  [✓ Valid name]
+Roll No : 105
+Marks: [75, 80, 70, 68, 85]
+------------------------------------------
+
+Roll 103 name in ALL CAPS : PRIYA NAIR
+Roll 103 name in lowercase : priya nair
+
+
+================================
+Task 2: MARKS ANALYSIS
+================================
+
+Subject wise breakdown for Ayesha Sharma:
+
+Math         ->  88  Grade :A
+Physics      ->  72  Grade :B
+CS           ->  95  Grade :A+
+English      ->  60  Grade :C
+Chemistry    ->  78  Grade :B
+
+ Total Marks :393
+ Average Marks : 78.6
+ Highest :  CS (95)
+ Lowest  : English (60)
+
+ Add new subjects (type 'done' to stop)
+ (enter subject name first,then marks 0-100)
+
+Subject name : History
+  Marks for History (0-100) :56
+✓ Added History:56
+
+Subject name : Geography
+  Marks for Geography (0-100) :89
+✓ Added Geography:89
+
+Subject name : done
+
+  New subjects added : 2
+  Updated average: 76.86
+
+
+================================
+  TASK 3 : CLASS PERFORMANCE SUMMARY
+================================
+
+Name              | Average|Status
+----------------------------------------
+Ayesha Sharma      |   78.60 | Pass
+Rohit Verma        |   61.00 | Pass
+Priya Nair         |   87.40 | Pass
+Karan Mehta        |   49.00 | Fail
+Sneha Pillai       |   75.60 | Pass
+
+  Students passed : 4
+    Students failed : 1
+   Class topper :    Priya Nair (87.4)
+Class average : 70.32
+
+
+================================
+ TASK 4 : STRING MANIPULATION
+================================
+
+ [Step 1 - Stripped]
+python is a versatile language. it supports object oriented, functional, and procedural programming. python is widely used in data science and machine learning.
+
+ [Step 2 - Title Case]
+Python Is A Versatile Language. It Supports Object Oriented, Functional, And Procedural Programming. Python Is Widely Used In Data Science And Machine Learning.
+
+[Step 3 - 'python' appears 2 time(s)]
+
+[Step 4 - Replaced]
+Python 🐍 is a versatile language. it supports object oriented, functional, and procedural programming. Python 🐍 is widely used in data science and machine learning.
+
+[Step 5 - Sentence List]
+['python is a versatile language', 'it supports object oriented, functional, and procedural programming', 'python is widely used in data science and machine learning.']
+
+[Step 6 - Numbered Sentences]
+ 1.python is a versatile language.
+ 2.it supports object oriented, functional, and procedural programming.
+ 3.python is widely used in data science and machine learning.
+
+================================
+ ALL TASKS COMPLETED
+================================
